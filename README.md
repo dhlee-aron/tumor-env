@@ -2,11 +2,11 @@
 simple implementation of "Predicting survival from colorectal cancer histology slides using deep learning: A retrospective multicenter study".
 
 #### Quick start 
-train 
+train   
 python run_classification_model.py
 
-valid
+valid   
 python evaluation_model.py
 
-visualization
+visualization   
 visualize_predicted_WSI_TCGA.py
